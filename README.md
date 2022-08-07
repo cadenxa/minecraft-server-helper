@@ -3,8 +3,8 @@ A simple self-hosted Discord bot for monitoring a Minecraft server.
 
 © Cadence Boyce 2022  
 Free to use and modify for personal/educational purposes.  
-
-[Screenshot of my version of the bot]!(https://github.com/cadenxa/minecraft-server-helper/blob/main/mcserverhelper-image.png)
+##
+<img src="https://github.com/cadenxa/minecraft-server-helper/blob/main/mcserverhelper-image.png" alt="screenshot" width="400"/>
 
 ## Requirements: 
  - Python 3.8 or higher
