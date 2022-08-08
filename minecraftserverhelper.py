@@ -79,5 +79,5 @@ bot.run("TOKEN")
 # Replace "TOKEN" with your bot's token (found in your developer portal) with quotes
 # so that the bot will come online when the program runs.
 
-# Once you've installed all the dependencies and changed all the placeholders in the code, just save and launch this .py script.
+# Once you've installed all the dependencies and changed all the placeholders in the code (anything in ALL CAPS), just save and launch this .py script.
 # Resetting the token in the Discord developer portal is a good way to shut down the bot quickly so you can make changes in the code.
