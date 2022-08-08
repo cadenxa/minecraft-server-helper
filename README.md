@@ -14,4 +14,4 @@ Free to use and modify for personal/educational purposes.
  - An application with a bot account on the Discord development portal https://discord.com/developers/applications 
  
 ## How to use:
-Once you've installed all the dependencies and changed all the placeholders in the code, just save and launch this .py script. See the comments in the code for more details.
+Once you've installed all the dependencies and changed all the placeholders in the code (anything in ALL CAPS), just save and launch this .py script. See the comments in the code for more details.
